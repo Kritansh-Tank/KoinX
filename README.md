@@ -22,7 +22,7 @@ While the optional tasks were not implemented in this version of the project, th
 
 ## Deployment
 
-The project is deployed on Vercel for live access. You can visit the deployed version at:
+The project is deployed on [Vercel](https://koin-x-blush.vercel.app/) for live access. You can visit the deployed version at:
 
 ## Tech Stack
 
@@ -50,3 +50,4 @@ The project is deployed on Vercel for live access. You can visit the deployed ve
 The TradingView chart widget is embedded for displaying the BTC/USD chart.
 
 ## Screenshots
+
