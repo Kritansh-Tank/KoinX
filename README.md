@@ -51,3 +51,4 @@ The TradingView chart widget is embedded for displaying the BTC/USD chart.
 
 ## Screenshots
 
+![KoinX - Frontend Intern Assignment](https://drive.google.com/uc?id=12bwVyOK4Fo3uNiBpxmpqBIQSRAmN78Vi)
