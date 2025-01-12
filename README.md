@@ -49,6 +49,6 @@ The project is deployed on [Vercel](https://koin-x-blush.vercel.app/) for live a
 
 The TradingView chart widget is embedded for displaying the BTC/USD chart.
 
-## Screenshots
+## Screenshot
 
 ![KoinX - Frontend Intern Assignment](https://drive.google.com/uc?id=12bwVyOK4Fo3uNiBpxmpqBIQSRAmN78Vi)
